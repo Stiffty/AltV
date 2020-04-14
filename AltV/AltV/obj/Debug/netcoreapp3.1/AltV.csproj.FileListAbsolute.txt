@@ -1,0 +1,5 @@
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\bin\Debug\netcoreapp3.1\AltV.deps.json
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\bin\Debug\netcoreapp3.1\AltV.dll
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\netcoreapp3.1\AltV.csprojAssemblyReference.cache
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\netcoreapp3.1\AltV.AssemblyInfoInputs.cache
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\netcoreapp3.1\AltV.AssemblyInfo.cs

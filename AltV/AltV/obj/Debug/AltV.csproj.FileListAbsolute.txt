@@ -1,0 +1,12 @@
+C:\Users\elach\Desktop\AltV\altv-server(1)\resources\AltV.deps.json
+C:\Users\elach\Desktop\AltV\altv-server(1)\resources\AltV.dll
+C:\Users\elach\Desktop\AltV\altv-server(1)\resources\AltV.pdb
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\AltV.csproj.CoreCompileInputs.cache
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\AltV.AssemblyInfoInputs.cache
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\AltV.AssemblyInfo.cs
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\AltV.csproj.CopyComplete
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\AltV.dll
+C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\AltV.pdb
+C:\Users\elach\Desktop\AltV\altv-server(1)\resources\MyResources\AltV.deps.json
+C:\Users\elach\Desktop\AltV\altv-server(1)\resources\MyResources\AltV.dll
+C:\Users\elach\Desktop\AltV\altv-server(1)\resources\MyResources\AltV.pdb

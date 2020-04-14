@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LpouWcX9t2sX9Ww4M4HExAXcpQx0WaYi3wxgyYebVHuWlPd15KfzsW6/UcZi3V34eS7YGhJ2UcLmmeAlZBn4qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elach\\Documents\\GitHub\\AltV\\AltV\\AltV\\AltV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elach\\.nuget\\packages\\altv.net\\1.27.4\\altv.net.1.27.4.nupkg.sha512"
+  ],
+  "logs": []
+}
