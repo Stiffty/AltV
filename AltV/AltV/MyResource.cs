@@ -8,8 +8,7 @@ namespace AltV
     {
         public override void OnStart()
         {
-            Alt.On<IPlayer,string>("myMessage",EventHandler.MyMessageHandler);
-            Alt.On<IPlayer>("spawnVehicle",EventHandler.SpawnVehicle);
+            regCustomEvents();
             //debug
             Alt.OnServerEvent += (name,args) => { Alt.Log(name + " " + args.Length); };
             Alt.OnPlayerEvent += (player,name,args) => { Alt.Log("event:" + name); };
@@ -21,6 +20,12 @@ namespace AltV
         public override void OnStop()
         {
             Console.WriteLine("Stopped");
+        }
+
+        private void regCustomEvents()
+        {
+            Alt.On<IPlayer,string>("myMessage",EventHandler.MyMessageHandler);
+            Alt.On<IPlayer>("spawnVehicle",EventHandler.SpawnVehicle);
         }
     }
 }

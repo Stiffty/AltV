@@ -15,7 +15,7 @@ namespace AltV
         {
             player.SetPosition(-1070.06250f,-2975.122803f,13.773568f);
             player.SetDateTime(DateTime.Now);
-            player.Model = ( uint ) PedModel.FreemodeMale01;
+            player.Model = ( uint ) PedModel.Eastsa02AFY;
             Console.WriteLine($"New Player joined: {player.Name}");
         }
 
@@ -27,7 +27,7 @@ namespace AltV
         public static void SpawnVehicle(IPlayer player)
         {
             string VehicleName = "scramjet";
-            IVehicle veh = Alt.CreateVehicle(Alt.Hash(VehicleName), new Position(player.Position.X, player.Position.Y + 1.5f, player.Position.Z), player.Rotation);
+            Alt.CreateVehicle(Alt.Hash(VehicleName), new Position(player.Position.X, player.Position.Y + 1.5f, player.Position.Z), player.Rotation);
         }
     }
 }
