@@ -24,7 +24,6 @@ namespace AltV
 
         private void regCustomEvents()
         {
-            Alt.On<IPlayer,string>("myMessage",EventHandler.MyMessageHandler);
             Alt.On<IPlayer>("spawnVehicle",EventHandler.SpawnVehicle);
         }
     }
