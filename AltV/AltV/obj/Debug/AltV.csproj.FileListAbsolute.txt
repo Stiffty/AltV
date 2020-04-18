@@ -10,4 +10,3 @@ C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\AltV.pdb
 C:\Users\elach\Desktop\AltV\altv-server(1)\resources\MyResources\AltV.deps.json
 C:\Users\elach\Desktop\AltV\altv-server(1)\resources\MyResources\AltV.dll
 C:\Users\elach\Desktop\AltV\altv-server(1)\resources\MyResources\AltV.pdb
-C:\Users\elach\Documents\GitHub\AltV\AltV\AltV\obj\Debug\AltV.csprojAssemblyReference.cache

@@ -12,7 +12,7 @@ namespace AltV
             //debug
             Alt.OnServerEvent += (name,args) => { Alt.Log(name + " " + args.Length); };
             Alt.OnPlayerEvent += (player,name,args) => { Alt.Log("event:" + name); };
-            Console.WriteLine("Started");
+            Console.WriteLine("_________________________________\nStarted");
         }
 
        

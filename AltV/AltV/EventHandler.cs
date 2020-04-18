@@ -20,6 +20,7 @@ namespace AltV
             player.Model = ( uint ) PedModel.Eastsa02AFY;
 
             playerManager.addPlayer(player);
+            new Jsonreader();
             Console.WriteLine($"New Player joined: {player.Name}");
         }
 
